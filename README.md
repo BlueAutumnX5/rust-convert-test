@@ -1,3 +1,10 @@
+## Original Readme is on the bottom.
+**EN:** This is my attempt at trying to convert things to Rust. So expect rubbish implementation, and bad everything 🗣️
+
+**ID:** Ini adalah percobaan saya mengonversi berbagai hal ke Rust. Jadi, kalau implementasinya berantakan dan bosok, harap maklum. Saya sendiri juga masih berusaha memahami apa yang sebenarnya sedang saya kerjakan 💀💀💀
+
+---
+
 # Nizar Ghathfan Zaidan' Python Project
 
 ## 🔺Pyramid Python ([pyramid.py](pyramid.py))🔺
